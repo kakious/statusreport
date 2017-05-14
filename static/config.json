@@ -1,8 +1,8 @@
 {
-  "title": "Cogs.Red Status",
-  "name": "cogs.red",
+  "title": "Red Status",
+  "name": "Discord Red Status",
   "link": "http://cogs.red",
-  "repo": "orels1/Red-Portal",
+  "repo": "kakious/red.bot.status",
   "statusRepo": "kakious/red.bot.status",
   "services": ["Server", "Bot", "Discord"],
   "statuses": {
