@@ -4,7 +4,7 @@
   "link": "http://cogs.red",
   "repo": "orels1/Red-Portal",
   "statusRepo": "orels1/status.cogs.red",
-  "services": ["API", "Website", "Parser"],
+  "services": ["Server", "Bot", "Discord"],
   "statuses": {
     "operational": "#2ecc71",
     "degraded": "#f39c12",
@@ -15,5 +15,5 @@
     "degraded": "Degraded perfomance",
     "outage": "Major outage"
   },
-  "footer": "Hosted with ❤️ by GitHub. [orels1/statusreport](http://github.com/orels1/statusreport)"
+  "footer": "Hosted with  ❤️  by GitHub."
 }
